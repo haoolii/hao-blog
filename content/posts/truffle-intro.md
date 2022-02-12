@@ -3,6 +3,8 @@ title: "初探 Truffle"
 date: 2022-02-12T16:04:48+08:00
 draft: false
 summary: "初探 Truffle 筆記，安裝、部署、測試相關指令"
+tags: ["truffle", "web3", "blockchain"]
+categories: ["web3"]
 ---
 {{<figure src="https://trufflesuite.com/img/truffle-logo-dark.svg" height="250px" >}}
 
